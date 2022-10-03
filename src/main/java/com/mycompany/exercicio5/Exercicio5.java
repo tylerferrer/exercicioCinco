@@ -17,6 +17,6 @@ public class Exercicio5 {
     
 //    Operação para conversão das medidas
     double centimetros = metros * 100;
-    System.out.print(metros + "metros, corresponde á " + centimetros + " centímetros.");
+    System.out.print(metros + " metros, corresponde á " + centimetros + " centímetros.");
     }
 }
